@@ -1,0 +1,2 @@
+aws1 ansible_host=XXX.XXX.XXX.XXX
+niagahoster1 ansible_host=XXX.XXX.XXX.XXX
